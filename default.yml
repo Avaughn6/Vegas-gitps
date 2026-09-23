@@ -17,7 +17,7 @@ org_settings:
   webhook_settings:
     activities_webhook:
       enable_activities_webhook: true
-      destination_url: google.com
+      destination_url: https://webhook.site/eac28b76-a421-460a-a42b-47c40e2a07b5
   org_info:
     ###########################################################
     # The name of your organization is displayed to end users
