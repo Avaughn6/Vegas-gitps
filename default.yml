@@ -23,7 +23,7 @@ org_settings:
     # Read more:
     #   • https://fleetdm.com/docs/configuration/yaml-files#org-info
     ###########################################################
-    org_name: SomeOrganizationName
+    org_name: SomeOrganization
 
   server_settings:
     ###########################################################
