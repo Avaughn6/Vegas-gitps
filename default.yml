@@ -12,8 +12,8 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 org_settings:
-fleet_desktop:
-transparancy_url: https://pointerpointer.com
+  fleet_desktop:
+  transparancy_url: https://pointerpointer.com
   org_info:
     ###########################################################
     # The name of your organization is displayed to end users
